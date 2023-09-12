@@ -3,6 +3,6 @@
 - Insert
 - Delete
 - Update
-- WHERE
+- Where
 
-E combinações mais de consultas mais complexas complexas
+E combinações de consultas mais complexas complexas
