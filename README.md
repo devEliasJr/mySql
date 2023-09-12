@@ -1,1 +1,8 @@
-ÿþ
+### Lista de Scripts MySQL
+- Select
+- Insert
+- Delete
+- Update
+- WHERE
+
+E combinaÃ§Ãµes mais de consultas mais complexas complexas
